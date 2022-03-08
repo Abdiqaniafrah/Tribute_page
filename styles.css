@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: Arial Black;
+    font-size: 50px;
+  }
+  
+  h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+      color: #A9A9A9;
+  }
+  
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  #img-caption {
+    font-family: sans-serif;
+  }
+  
+  p {
+    font-family: Times New Roman;
+  }
+  #tribute-link {
+    font-family: Arial;
+      font-size: 20px;
+  }
+  
+  li {
+    text-align: left;
+    background-color: #DCDCDC;
+    font-style: oblique;
+  }
